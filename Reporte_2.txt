@@ -1,5 +1,5 @@
 <INI>
-1. Obtener datos de productos mas vendidos entre (,´Mujeres´)
+1. Obtener datos de productos mas vendidos entre (,´Varones´)
 2. Filtrar productos vendidos en tiendas in (´LIMA´,´TRUJILLO´,´PIURA´,´TUMBES´)
 3. Filtrar productos en oferta
 
