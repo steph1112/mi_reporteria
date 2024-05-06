@@ -1,0 +1,6 @@
+<INI>
+1. Obtener datos de productos mas vendidos entre (´Varones´,´Mujeres´)
+2. Filtrar productos vendidos en tiendas in (´LIMA´,´TRUJILLO´,´AREQUIPA´,´MOQUEGUA´,´TACNA´)
+3. Exportar en tablas dinámicas en Excel 
+
+<INI>
